@@ -30,6 +30,8 @@
   </ol>
 </details>
 
+![Image](https://github.com/user-attachments/assets/d3f2634b-ea0c-4b3b-98ab-9157d746e7cd)
+
 We welcome contributions - please feel free to open an issue or start a pull request if you would like to add new works to this collection!
 
 ## Surveys
