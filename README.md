@@ -39,7 +39,9 @@
   </ol>
 </details>
 
-![Image](https://github.com/user-attachments/assets/0ed3892b-462a-483d-bec2-1ada7c4bf463)
+<p align="center">
+    <img src="overview.png" width="100%" style="align:center;"/>
+</p>
 
 ## Surveys
 
