@@ -10,7 +10,7 @@
 
 <p align="center">
     A curated list of papers on discovery, analysis, and mitigation of LLM reasoning failures.<br>
-    This repository accompanies the paper "Large Language Model Reasoning Failures" (<b>TMLR 2026 Survey Certification</b>).
+    This repository accompanies the paper "<a href="https://www.arxiv.org/abs/2602.06176">Large Language Model Reasoning Failures</a>" (<b>TMLR 2026 Survey Certification</b>).
 </p>
 
 **Cite this paper:**
