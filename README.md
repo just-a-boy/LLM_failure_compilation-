@@ -1,21 +1,11 @@
 <h1 align="center">Awesome LLM Reasoning Failures</h1>
 
 <p align="center">
-  <a href="https://github.com/sindresorhus/awesome">
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
-  </a>
-  <a href="https://img.shields.io/github/stars/Peiyang-Song/Awesome-LLM-Reasoning-Failures?style=social">
-    <img src="https://img.shields.io/github/stars/Peiyang-Song/Awesome-LLM-Reasoning-Failures?style=social">
-  </a>
-  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
-    <img src="https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-blue.svg">
-  </a>
-  <a href="https://img.shields.io/badge/PRs-Welcome-red">
-    <img src="https://img.shields.io/badge/PRs-Welcome-red">
-  </a>
-  <a href="https://arxiv.org/abs/2602.06176">
-    <img src="https://img.shields.io/badge/arXiv-2602.06176-b31b1b.svg">
-  </a>
+  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>&nbsp;
+  <a href="https://img.shields.io/github/stars/Peiyang-Song/Awesome-LLM-Reasoning-Failures?style=social"><img src="https://img.shields.io/github/stars/Peiyang-Song/Awesome-LLM-Reasoning-Failures?style=social"></a>&nbsp;
+  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img src="https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-blue.svg"></a>&nbsp;
+  <a href="https://img.shields.io/badge/PRs-Welcome-red"><img src="https://img.shields.io/badge/PRs-Welcome-red"></a>&nbsp;
+  <a href="https://arxiv.org/abs/2602.06176"><img src="https://img.shields.io/badge/arXiv-2602.06176-b31b1b.svg"></a>
 </p>
 
 <p align="center">
