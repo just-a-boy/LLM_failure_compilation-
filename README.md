@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-    <b>A curated list of papers on discovery, analysis, and mitigation of LLM reasoning failures.</b><br>
-    <b>This repository accompanies the paper "Large Language Model Reasoning Failures" (TMLR 2026 Survey Certification).</b>
+    A curated list of papers on discovery, analysis, and mitigation of LLM reasoning failures.<br>
+    This repository accompanies the paper "Large Language Model Reasoning Failures" (<b>TMLR 2026 Survey Certification</b>).
 </p>
 
 **Cite this paper:**
