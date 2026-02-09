@@ -4,7 +4,7 @@
     <b> Welcome! This repository is a curated collection of research works on LLM reasoning failures.</b>
 </p>
 
-🚩**News**: Our paper is accepted to the Transactions on Machine Learning Research (TMLR), 2026, with a **Survey Certificate**.
+🚩**News**: Our [paper](https://www.arxiv.org/abs/2602.06176) is accepted to the Transactions on Machine Learning Research (TMLR), 2026, with a **Survey Certificate**.
 
 <details>
   <summary>🗂️ <b>Table of Contents</b></summary>
@@ -38,7 +38,7 @@ We welcome contributions - please feel free to open an issue or start a pull req
 
 ## Surveys
 
-1. **Large Language Model Reasoning Failures** `TMLR 2026` [[paper]](https://openreview.net/attachment?id=vnX1WHMNmz&name=pdf)
+1. **Large Language Model Reasoning Failures** `TMLR 2026` [[paper]](https://www.arxiv.org/abs/2602.06176)
 
    *Song, Peiyang and Han, Pengrui and Goodman, Noah*
 
@@ -1039,8 +1039,16 @@ We welcome contributions - please feel free to open an issue or start a pull req
 
 ## Citation
 
-If you find our work useful, please consider citing our paper: **[Add link to our survey paper.]**
+If you find our work useful, please consider citing [our paper](https://www.arxiv.org/abs/2602.06176):
 
 ```BibTeX
-
+@misc{song2026largelanguagemodelreasoning,
+      title={Large Language Model Reasoning Failures}, 
+      author={Peiyang Song and Pengrui Han and Noah Goodman},
+      year={2026},
+      eprint={2602.06176},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2602.06176}, 
+}
 ```
