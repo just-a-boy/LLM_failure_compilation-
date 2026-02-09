@@ -1,10 +1,27 @@
 <h1 align="center">Awesome LLM Reasoning Failures</h1>
 
 <p align="center">
-    <b> Welcome! This repository is a curated collection of research works on LLM reasoning failures.</b>
+  <a href="https://github.com/sindresorhus/awesome">
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
+  </a>
+  <a href="https://img.shields.io/github/stars/Peiyang-Song/Awesome-LLM-Reasoning-Failures?style=social">
+    <img src="https://img.shields.io/github/stars/Peiyang-Song/Awesome-LLM-Reasoning-Failures?style=social">
+  </a>
+  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
+    <img src="https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-blue.svg">
+  </a>
+  <a href="https://img.shields.io/badge/PRs-Welcome-red">
+    <img src="https://img.shields.io/badge/PRs-Welcome-red">
+  </a>
+  <a href="https://arxiv.org/abs/2602.06176">
+    <img src="https://img.shields.io/badge/arXiv-2602.06176-b31b1b.svg">
+  </a>
 </p>
 
-🚩**News**: Our [paper](https://www.arxiv.org/abs/2602.06176) is accepted to the Transactions on Machine Learning Research (TMLR), 2026, with a **Survey Certification**.
+<p align="center">
+    <b>A curated list of papers on discovery, analysis, and mitigation of LLM reasoning failures.</b><br>
+    <b>This repository accompanies the paper "Large Language Model Reasoning Failures" (TMLR 2026 Survey Certification).</b>
+</p>
 
 <details>
   <summary>🗂️ <b>Table of Contents</b></summary>
@@ -33,8 +50,6 @@
 </details>
 
 ![Image](https://github.com/user-attachments/assets/0ed3892b-462a-483d-bec2-1ada7c4bf463)
-
-We welcome contributions - please feel free to open an issue or start a pull request if you would like to add new works to this collection!
 
 ## Surveys
 
