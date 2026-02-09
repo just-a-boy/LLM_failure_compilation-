@@ -15,14 +15,10 @@
 
 **Cite this paper:**
 ```
-@misc{song2026largelanguagemodelreasoning,
-      title={Large Language Model Reasoning Failures}, 
-      author={Peiyang Song and Pengrui Han and Noah Goodman},
-      year={2026},
-      eprint={2602.06176},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2602.06176}, 
+@article{songllmreasoningfailures,
+  title={Large Language Model Reasoning Failures},
+  author={Song, Peiyang and Han, Pengrui and Goodman, Noah},
+  journal={Transactions on Machine Learning Research}
 }
 ```
 
@@ -1061,14 +1057,10 @@
 
 If you find our work useful, please consider citing [our paper](https://www.arxiv.org/abs/2602.06176):
 
-```BibTeX
-@misc{song2026largelanguagemodelreasoning,
-      title={Large Language Model Reasoning Failures}, 
-      author={Peiyang Song and Pengrui Han and Noah Goodman},
-      year={2026},
-      eprint={2602.06176},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2602.06176}, 
+```
+@article{songllmreasoningfailures,
+  title={Large Language Model Reasoning Failures},
+  author={Song, Peiyang and Han, Pengrui and Goodman, Noah},
+  journal={Transactions on Machine Learning Research}
 }
 ```
