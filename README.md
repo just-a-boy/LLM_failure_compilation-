@@ -13,6 +13,19 @@
     <b>This repository accompanies the paper "Large Language Model Reasoning Failures" (TMLR 2026 Survey Certification).</b>
 </p>
 
+**Cite this paper:**
+```
+@misc{song2026largelanguagemodelreasoning,
+      title={Large Language Model Reasoning Failures}, 
+      author={Peiyang Song and Pengrui Han and Noah Goodman},
+      year={2026},
+      eprint={2602.06176},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2602.06176}, 
+}
+```
+
 <details>
   <summary>🗂️ <b>Table of Contents</b></summary>
   <ol>
