@@ -653,6 +653,10 @@
 
    *Huang, Kaixuan and Guo, Jiacheng and Li, Zihao and Ji, Xiang and Ge, Jiawei and Li, Wenzhe and Guo, Yingqing and Cai, Tianle and Yuan, Hui and Wang, Runzhe and Wu, Yue and Yin, Ming and Tang, Shange and Huang, Yangsibo and Jin, Chi and Chen, Xinyun and Zhang, Chiyuan and Wang, Mengdi*
 
+1. **Reasoning LLMs are Wandering Solution Explorers** `arXiv preprint` [[paper]](https://arxiv.org/abs/2505.20296)
+
+   *Lu, Jiahao and Xu, Ziwei and Kankanhalli, Mohan*
+
 1. **The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity** `arXiv preprint` [[paper]](https://arxiv.org/abs/2506.06941)
 
    *Shojaee, Parshin and Mirzadeh, Iman and Alizadeh, Keivan and Horton, Maxwell and Bengio, Samy and Farajtabar, Mehrdad*
